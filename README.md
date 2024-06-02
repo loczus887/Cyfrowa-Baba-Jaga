@@ -1,4 +1,4 @@
-# README
+# README 
 
 ## Project Name: "Digital Baba Yaga"
 ## Authors: Alicja Kowalska, Klaudia Karczmarczyk
